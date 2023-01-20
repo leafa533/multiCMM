@@ -1,0 +1,3 @@
+1. English advertisements: https://people.cs.pitt.edu/~mzhang/visualization/dataset/
+
+2. Chinese commercial advertisements: https://aistudio.baidu.com/aistudio/datasetdetail/102279
