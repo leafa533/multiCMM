@@ -1,3 +1,0 @@
-English ad: url: https://people.cs.pitt.edu/~mzhang/visualization/dataset/
-
-Chinese commercial advertisements:https://aistudio.baidu.com/aistudio/datasetdetail/102279
